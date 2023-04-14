@@ -1,11 +1,11 @@
-package fr.cakihorse;
+ package fr.cakihorse;
 
 import club.minnced.discord.rpc.*;
 
 public class DiscordRpc {
     public static void main() {
         DiscordRPC lib = DiscordRPC.INSTANCE;
-        String applicationId = "1096535085836148838";
+        String applicationId = "petit voyous ! ";
         String steamId = "";
         DiscordEventHandlers handlers = new DiscordEventHandlers();
         handlers.ready = (user) -> System.out.println("Ready!");
