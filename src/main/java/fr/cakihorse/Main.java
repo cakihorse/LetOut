@@ -14,7 +14,7 @@ public class Main {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);
         //ajout d'une icon
-        ImageIcon icon = new ImageIcon("C:\\Users\\Julian Familly\\IdeaProjects\\LetOut\\src\\main\\resources\\LetOut.png");
+        ImageIcon icon = new ImageIcon("votre ressource location");
 
 
 
